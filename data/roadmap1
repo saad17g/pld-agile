@@ -1,0 +1,49 @@
+
+	Date: Wed Nov 16 11:35:22 CET 2022
+=============================Road map for all computed tours===========================
+
+	Courier: courier number0
+	***	08:00 warehouse:
+			Rue Feuillat(0.58 Km)
+			Rue Meunier(0.11 Km)
+			Rue Frédéric Mistral(0.09 Km)
+			Cours de la République(0.14 Km)
+
+	***	8:17 request 1:		(latitude: 45.76729 longitude: 4.862594)
+			waiting duration:0 minutes
+			Rue Pétrequin(0.09 Km)
+			Rue Jean Broquin(0.17 Km)
+			Rue Dedieu(0.97 Km)
+
+	***	9:5 request 2:		(latitude: 45.769073 longitude: 4.876204)
+			waiting duration:36 minutes
+			Passage Dubois(0.16 Km)
+			Rue Anatole France(0.66 Km)
+			Rue Germain(0.33 Km)
+			Rue du Général Mouton-Duvernet(0.22 Km)
+			Rue Paul Duvivier(0.66 Km)
+
+	***	10:5 request 3:		(latitude: 45.736683 longitude: 4.8426967)
+			waiting duration:31 minutes
+			Rue Croix Barret(0.76 Km)
+			Route de Vienne(0.25 Km)
+			Rue Audibert et Lavirotte(0.48 Km)
+			Avenue Jean Mermoz(0.29 Km)
+
+	***	11:5 request 4:		(latitude: 45.7362 longitude: 4.886261)
+			waiting duration:38 minutes
+			Rue Bataille(0.22 Km)
+			Boulevard Ambroise Paré(0.58 Km)
+			Rue Viala(0.66 Km)
+			Place Ronde André Bourgogne(0.01 Km)
+
+	***	11:26 request 5:		(latitude: 45.76118 longitude: 4.898195)
+			waiting duration:0 minutes
+			Allée de la Côte(0.11 Km)
+			Rue Pierre-Louis Bernaix(0.06 Km)
+			Boulevard Eugène Réguillon(0.47 Km)
+			Place Jules Grandclément(0.38 Km)
+			Rue Rhonat(0.14 Km)
+
+	***	warehouse
+

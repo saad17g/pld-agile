@@ -1,0 +1,11 @@
+# Glossary
+- **Intersection**: Node in the map defined by its latitude and longitude.
+- **Segment**: Is composed of an origin intersection, a destination intersection, a name and a length (in meters).
+- **Map**: Collection of segments grouped by intersections, represented by a directed graph.
+- **Itinerary**: Sequence of segments.
+- **Delivery**: Itinerary starting from the position of the *courier* and going to the next request intersection. When the courier arrive to the request intersection they stay there 5 minutes.
+- **Tour**: Sequence of deliveries starting from the warehouse and ending at the warehouse.
+- **Courier**: A person in charge of one tour.
+- **Request**: Composed of a Time Window, An Intersection and a Delivery Time.
+- **Time window**: One-hour closed interval specified by the user.
+- **Best possible tour**: Tour that minimizes the arrival time to the warehouse.
